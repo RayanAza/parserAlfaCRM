@@ -1,4 +1,4 @@
-alfaCRM site parser, for collecting data such as data on current and archived clients, financial transactions, groups. The scripts are written in python3.9.11, using the selenium webdriver framework, libraries: pandas, pygsheets. 
+alfaCRM site scraper, for collecting data such as data on current and archived clients, financial transactions, groups. The scripts are written in python3.9.11, using the selenium webdriver framework, libraries: pandas, pygsheets. 
 The algorithm of our parser is as follows: 
 1) login to the site, under a specific username and password via webdriver Firefox
 2) finding the necessary category (let's say current customers)
